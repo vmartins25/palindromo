@@ -29,5 +29,8 @@ Falso:
 O componente deve receber os exemplos acima e retornar verdadeiro ou falso, conforme a
 regra. Fazer o componente usando a metodologia TDD.
 
-Alunos: Vanessa Alencar 
-        Alexandre Ferraz
+Alunos: 
+
+Vanessa Alencar
+
+Alexandre Ferraz
